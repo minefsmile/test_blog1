@@ -11,9 +11,9 @@ enableEmoji = true
 
 [Menus]
   main = [
-      {Name = "Archives", URL = "https://ittenblunt.github.io/my-blog/posts/"},
-      {Name = "Tags", URL = "https://ittenblunt.github.io/my-blog/tags/"},
-      {Name = "Photos", URL = "https://ittenblunt.github.io/my-blog/photos/"}
+      {Name = "Archives", URL = "https://minefsmile.github.io/test_blog1/posts/"},
+      {Name = "Tags", URL = "https://minefsmile.github.io/test_blog1/tags/"},
+      {Name = "Photos", URL = "https://minefsmile.github.io/test_blog1/photos/"}
   ]
 
 [params]
