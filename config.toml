@@ -1,4 +1,4 @@
-baseURL = "https://github.com/minefsmile/test_blog1.git"
+baseURL = "https://minefsmile.github.io/test_blog1/"
 languageCode = "zh-CN"
 title = "test_blog1"
 theme = "hyde"
